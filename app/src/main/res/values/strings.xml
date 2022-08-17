@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ipv6 address agent</string>
+    <string name="notification_channel_id" translatable="false">com.commandus.vapidchatter</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_scan_qr_code">Scan QR code</string>
+    <string name="menu_show_qr_code">Show QR code</string>
+    <string name="menu_subscriptions">Subscriptions</string>
+
+    <string name="intent_msg_choose_share">Choose app to share code</string>
+
+    <string name="toast_scan_vapid_key">Scan QR code</string>
+    <string name="toast_scan_code_processing">QR code processing..</string>
+    <string name="description_display_vapid_key">Display QR code 1</string>
+    <string name="label_display_code_or_share">Display QR code or share</string>
+
+    <string name="msg_err_subscribe_to_vapid_key">Can not subscribe to VAPID key</string>
+    <string name="msg_scan_code_cancelled">Scan cancelled</string>
+    <string name="msg_scan_code_wrong">Invalid QR code</string>
+    <string name="msg_link_wrong">Invalid code</string>
+    <string name="msg_share_code">Click on link to subscribe</string>
+    <string name="msg_saved_subscription_successfully">Subscription created successfully</string>
+    <string name="msg_err_save_subscription">Error save subscription</string>
+
+</resources>
